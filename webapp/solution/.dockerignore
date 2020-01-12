@@ -1,0 +1,9 @@
+.idea/
+*.iml
+target/
+!target/*.jar
+.mvn/
+mvnw
+mvnw.cmd
+solution/
+200MB.zip
